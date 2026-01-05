@@ -66,7 +66,7 @@ Dá um exemplo prático relacionado com um inventário ou lista de dados.
         Resposta 1: ...
         Resposta 2: ...
 
-7. Indica uma vantagem da utilização de gráficos numa folha de cálculo.
+7. Para que serve um gráfico numa folha de cálculo?
 Escolhe um tipo de gráfico e refere uma situação concreta em que possa ser usado.
 (3 valores)
 
